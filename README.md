@@ -10,4 +10,6 @@ Port : 9001
 
 Post the event logs to this url
 
+```
 http://216.176.184.236:9001/<channelName>/<eventName>
+```
